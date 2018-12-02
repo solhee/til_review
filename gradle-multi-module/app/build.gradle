@@ -24,7 +24,7 @@ dependencies {
     // Use JUnit test framework
     testCompile 'junit:junit:4.12'
     
-    compile project(":common")
+    compile project (":common")
 }
 
 // In this section you declare where to find the dependencies of your project
